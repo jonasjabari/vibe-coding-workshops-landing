@@ -2,8 +2,8 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: '/vibe-coding-workshops-landing',
-  assetPrefix: '/vibe-coding-workshops-landing',
+  basePath: process.env.NODE_ENV === 'production' ? '/vibe-coding-workshops-landing' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/vibe-coding-workshops-landing' : '',
   eslint: {
     ignoreDuringBuilds: true,
   },
