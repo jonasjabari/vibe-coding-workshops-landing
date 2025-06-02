@@ -18,7 +18,7 @@ export function TeamSection() {
               <Card className="text-center border shadow-md bg-white hover:shadow-lg transition-shadow duration-200 flex-1">
                 <CardContent className="p-10">
                   <div className="w-56 h-56 rounded-3xl mx-auto mb-8 shadow-lg overflow-hidden">
-                    <img src="/jonas.webp" alt="Jonas" className="w-full h-full object-cover object-center" style={{objectPosition: '50% 20%'}} />
+                    <img src="/vibe-coding-workshops-landing/jonas.webp" alt="Jonas" className="w-full h-full object-cover object-center" style={{objectPosition: '50% 20%'}} />
                   </div>
                   <h3 className="text-2xl font-bold mb-3 text-gray-900">Jonas Jabari</h3>
                   <p className="text-blue-600 font-semibold mb-6 text-lg">Full-Stack-Entwickler mit KI-Fokus</p>
@@ -37,7 +37,7 @@ export function TeamSection() {
               <Card className="text-center border shadow-md bg-white hover:shadow-lg transition-shadow duration-200 flex-1">
                 <CardContent className="p-10">
                   <div className="w-56 h-56 rounded-3xl mx-auto mb-8 shadow-lg overflow-hidden">
-                    <img src="/steffen.jpg" alt="Steffen" className="w-full h-full object-cover object-center" style={{objectPosition: '50% 20%'}} />
+                    <img src="/vibe-coding-workshops-landing/steffen.jpg" alt="Steffen" className="w-full h-full object-cover object-center" style={{objectPosition: '50% 20%'}} />
                   </div>
                   <h3 className="text-2xl font-bold mb-3 text-gray-900">Steffen Ackermann</h3>
                   <p className="text-blue-600 font-semibold mb-6 text-lg">
