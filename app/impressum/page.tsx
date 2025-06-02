@@ -11,8 +11,8 @@ export default function Impressum() {
               <div className="space-y-2 text-gray-700">
                 <p><strong>Vibe Coding Kompetenz</strong></p>
                 <p>Jonas Jabari & Steffen Ackermann</p>
-                <p>[Straße und Hausnummer]</p>
-                <p>[PLZ] [Ort]</p>
+                <p>Bremer Str. 1d</p>
+                <p>90765 Fürth</p>
                 <p>Deutschland</p>
               </div>
             </section>
@@ -21,7 +21,7 @@ export default function Impressum() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
               <div className="space-y-2 text-gray-700">
                 <p><strong>E-Mail:</strong> snackermann@outlook.de</p>
-                <p><strong>Telefon:</strong> [Telefonnummer]</p>
+                <p><strong>Telefon:</strong> +49 173 419 509 3</p>
               </div>
             </section>
 
@@ -29,7 +29,7 @@ export default function Impressum() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Umsatzsteuer-ID</h2>
               <div className="text-gray-700">
                 <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-                <p>[USt-IdNr.]</p>
+                <p>DE368862923</p>
               </div>
             </section>
 
@@ -37,8 +37,9 @@ export default function Impressum() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
               <div className="space-y-2 text-gray-700">
                 <p>Jonas Jabari & Steffen Ackermann</p>
-                <p>[Straße und Hausnummer]</p>
-                <p>[PLZ] [Ort]</p>
+                <p>Bremer Str. 1d</p>
+                <p>90765 Fürth</p>
+                <p>Deutschland</p>
               </div>
             </section>
 
