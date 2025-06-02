@@ -1,0 +1,8 @@
+export { HeroSection } from './HeroSection'
+export { ProblemSolutionSection } from './ProblemSolutionSection'
+export { BenefitsSection } from './BenefitsSection'
+export { WorkshopPackagesSection } from './WorkshopPackagesSection'
+export { AddOnsSection } from './AddOnsSection'
+export { TeamSection } from './TeamSection'
+export { CTASection } from './CTASection'
+export { Footer } from './Footer' 
