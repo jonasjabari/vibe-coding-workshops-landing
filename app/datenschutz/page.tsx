@@ -86,8 +86,8 @@ export default function Datenschutz() {
                 <div className="bg-gray-50 p-4 rounded">
                   <p><strong>Vibe Coding Kompetenz</strong></p>
                   <p>Jonas Jabari & Steffen Ackermann</p>
-                  <p>[Straße und Hausnummer]</p>
-                  <p>[PLZ] [Ort]</p>
+                  <p>Bremer Str. 1d</p>
+                  <p>90765 Fürth[Ort]</p>
                   <p>E-Mail: snackermann@outlook.de</p>
                 </div>
                 <p>
