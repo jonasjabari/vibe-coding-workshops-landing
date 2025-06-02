@@ -87,7 +87,7 @@ export default function Datenschutz() {
                   <p><strong>Vibe Coding Kompetenz</strong></p>
                   <p>Jonas Jabari & Steffen Ackermann</p>
                   <p>Bremer Str. 1d</p>
-                  <p>90765 Fürth[Ort]</p>
+                  <p>90765 Fürth</p>
                   <p>E-Mail: snackermann@outlook.de</p>
                 </div>
                 <p>
